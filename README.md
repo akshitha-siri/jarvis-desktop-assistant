@@ -39,7 +39,7 @@ JARVIS/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/jarvis-desktop-assistant.git
+   git clone https://github.com/akshitha-siri/jarvis-desktop-assistant.git
    ```
 
 2. Navigate to the project folder:
